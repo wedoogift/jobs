@@ -2,23 +2,24 @@
 You are interested in joining our frontend team ? try to accomplish this challenge, we will be glad to see
 your code and give you a feedback.
 
+## Tools
+
+A small server is provided to emulate the Wedoogift API to run your component with.
+
+To start it, go to `calculator-server`, run `npm install` and then `npm start`, the API will be listening on 
+port 3000.
+
+The documentation of the API is available in `calculator-server/doc.md`.
+
 ## Topic
 
-Allow users to find a combination of cards allowing him to reach the desired value.
+In an **Angular 5** project, allow users to find a combination of cards allowing him to reach the desired value.
 
 For example, an user is interested to make a 30€ purchase in the shop **WedooStore** with the id **5**.
 Our REST API will help him and find the suitable combination of cards to reach this amount.
 
 The goal of this challenge is to create a component in which the user can type the desired amount he wants to
 purchase. 
-
-## Tools
-
-A small server is provided to emulate the Wedoogift API to run your component with.
-
-To start it, go to `calculator-server`, run `npm install` and then `npm start`, the API will be listening on port 3000.
-
-The documentation of the API is available in the `calculator-server/doc.md`.
 
 ## Part 1
 
